@@ -132,36 +132,7 @@
 
 
 
-    <!-- Quick Stats Section -->
-    <div class="bg-white rounded-xl p-6 card-shadow mb-12 animate-fade-in">
-      <h3 class="text-xl font-semibold text-gray-800 mb-6 flex items-center">
-        <i class="fas fa-chart-line text-primary-600 mr-3"></i>
-        Quick Statistics
-      </h3>
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-        <div class="bg-primary-50 p-4 rounded-lg border border-primary-100">
-          <p class="text-sm text-primary-800 font-medium">Total Admins</p>
-          <p class="text-2xl font-bold text-primary-600">24</p>
-          <p class="text-xs text-primary-500 mt-1">+2 this month</p>
-        </div>
-        <div class="bg-blue-50 p-4 rounded-lg border border-blue-100">
-          <p class="text-sm text-blue-800 font-medium">Active Sessions</p>
-          <p class="text-2xl font-bold text-blue-600">8</p>
-          <p class="text-xs text-blue-500 mt-1">3 mobile</p>
-        </div>
-        <div class="bg-green-50 p-4 rounded-lg border border-green-100">
-          <p class="text-sm text-green-800 font-medium">Recent Activity</p>
-          <p class="text-2xl font-bold text-green-600">42</p>
-          <p class="text-xs text-green-500 mt-1">today</p>
-        </div>
-        <div class="bg-purple-50 p-4 rounded-lg border border-purple-100">
-          <p class="text-sm text-purple-800 font-medium">Tasks Pending</p>
-          <p class="text-2xl font-bold text-purple-600">5</p>
-          <p class="text-xs text-purple-500 mt-1">2 high priority</p>
-        </div>
-      </div>
-    </div>
-
+    
     <!-- Footer -->
     <div class="text-center text-gray-600 text-sm mt-16 animate-fade-in">
       <div class="flex justify-center space-x-6 mb-4">
